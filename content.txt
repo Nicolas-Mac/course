@@ -1,0 +1,116 @@
+
+//-------------------------------
+
+Gitfolio Spring 2018
+A simple Github explorer written with React Native
+
+GitTrophy Summer 2017
+Create a 3D Printed Model of Your Github Contributions
+
+EachDay Spring 2017
+A micro-journaling service written in React
+
+GDQStat.us Summer 2016 - present
+Dynamic, explorable data visualizations for a week long charity livestream.
+
+Groot-Credits-Service Spring 2017
+Internal ACM@UIUC service for managing user credits balances, handling user payments, and automating the process of collecting member dues.
+
+Groot-Meme-Service Spring 2017
+Internal ACM@UIUC service for sharing memes, in a similar vein to Google’s “Memegen”.
+
+AnyoneHere Fall 2016
+See who’s home with a simple Flask API using your phone as a personal beacon.
+
+TipOfTheHats Donation Tracker Summer 2016
+Added user SteamID association to a Django-based charity donation tracker. Used in the TipOfTheHats charity livestream.
+
+Github-Label-Notify Spring 2016
+Node.js module that allows users to be notified about new issues with specific label.
+
+Wunderschedule Spring 2016
+Enhanced Wunderlist task scheduling for power users
+
+CUMTD Bus Tracker Spring 2016
+Visualization of real-time location data for the Champaign-Urbana Bus System.
+
+Political Heatmap Fall 2015
+Visualization of Twitter sentiment for 2016 US Presidential Candidates by state. (SIGIR)
+
+<My Libraries Contributions>
+
+corral Spring 2018
+A Serverless MapReduce framework that runs on AWS Lambda
+
+bpy_lambda Summer 2017
+Python package to facilitate running the Blender bpy module in AWS Lambda
+
+git_lambda Summer 2017
+Python package to facilitate running git in AWS Lambda
+
+github_contributions Summer 2017
+A Python interface for Github’s contribution system
+
+Travis Build Repeat Spring 2017
+Flexible framework for periodically repeating Travis Builds to avoid stale test results. Used for keeping integration tests up-to-date.
+
+jupyterhub-sqlauthenticator Fall 2016
+Authenticate Jupyterhub with a MySQL user DB
+
+pyvethirtyeight Fall 2016
+Python wrapper for Fivethirtyeight’s Election Forecasts
+
+dashing-wunderlist-stats Summer 2016
+Wunderlist Stats widget for your Dashing dashboard
+
+python-Emojipedia Spring 2016
+Python wrapper for Emojipedia. Allows for search / data collection on emojis.
+
+<My Desktop Apps>
+
+Groot Display Spring 2017
+Refactored the React Electron app that runs the ACM@UIUC office information display to be up-to-date with ACM design and infrastructure.
+
+TubeSync Winter 2015
+OSX menubar app for syncing Youtube Playlists to desktop for offline viewing
+
+Adept Fall 2015
+Python ‘Infinitely Extensible’ RPG game platform created for CS196
+
+"It's just Pong" Spring 2015
+A tiny Pong clone for Mini Ludum Dare 58
+
+<My Academics>
+
+Course Assistant, CS398 - Applied Cloud Computing 2017-2018
+Writing and facilitating labs for students covering a wide range of cloud computing topics including Hadoop, MapReduce, Spark, and Spark MLib.
+
+Research Assistant, National Center for Supercomputing Applications 2017-2018
+Member of the Illinois Data Science Initiative (iDSI). Research involving Hadoop Cluster Management, Spark, and Cloud Computing.
+
+Course Assistant, CS196 - Freshman Honors 2016
+Functioned as a Product Manager of a small group of students for their semester long project.
+
+Bitcoin Research & Extended Essay 2014 - 2015
+Researched the viability of Subversive Mining Attacks on the Bitcoin network.
+
+<Misc>
+
+git-haiku-bot Spring 2017
+A Twitter bot that tweets haikus contructed from Git commit messages
+
+trek-limerick-bot Spring 2017
+A Twitter bot that tweets limericks from Star Trek dialogue
+
+Wandr Fall 2015
+Geofencing iOS app for dementia patients and their caretakers. (Won 3rd place at HuskieHacks 2015)
+
+Open Source Contributions
+
+matplotlib
+Zappa
+Lightning Network Daemon (lnd)
+redux-implicit-oauth2
+three-x3d-loader
+
+//-----------------------------------
